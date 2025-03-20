@@ -1,0 +1,1696 @@
+[
+    {
+        "id": 1,
+        "nombre": "Participante 1",
+        "email": "anonymous",
+        "perfil": "Profesional BI",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 67,
+            "habilidades": 78,
+            "conceptos": 67,
+            "visualización": 67,
+            "conocimientos": 62
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 67,
+            "orientación_visual": 67,
+            "pensamiento_sistemático": 100,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 50
+        },
+        "total_puntos": 30.0
+    },
+    {
+        "id": 2,
+        "nombre": "Participante 2",
+        "email": "anonymous",
+        "perfil": "Transición de Excel",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 67,
+            "habilidades": 100,
+            "conceptos": 56,
+            "visualización": 67,
+            "conocimientos": 38
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 67,
+            "orientación_visual": 67,
+            "pensamiento_sistemático": 25,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 25
+        },
+        "total_puntos": 29.0
+    },
+    {
+        "id": 3,
+        "nombre": "Participante 3",
+        "email": "anonymous",
+        "perfil": "Profesional BI",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 67,
+            "habilidades": 67,
+            "conceptos": 78,
+            "visualización": 67,
+            "conocimientos": 75
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 67,
+            "orientación_visual": 67,
+            "pensamiento_sistemático": 100,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 50
+        },
+        "total_puntos": 31.0
+    },
+    {
+        "id": 4,
+        "nombre": "Participante 4",
+        "email": "anonymous",
+        "perfil": "Transición de Excel",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 56,
+            "habilidades": 100,
+            "conceptos": 78,
+            "visualización": 33,
+            "conocimientos": 50
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 33,
+            "orientación_visual": 33,
+            "pensamiento_sistemático": 100,
+            "perspectiva_de_usuario": 67,
+            "mentalidad_de_optimización": 50
+        },
+        "total_puntos": 28.0
+    },
+    {
+        "id": 5,
+        "nombre": "Participante 5",
+        "email": "anonymous",
+        "perfil": "Profesional BI",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 78,
+            "habilidades": 100,
+            "conceptos": 100,
+            "visualización": 89,
+            "conocimientos": 88
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 100,
+            "orientación_visual": 100,
+            "pensamiento_sistemático": 100,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 100
+        },
+        "total_puntos": 40.0
+    },
+    {
+        "id": 6,
+        "nombre": "Participante 6",
+        "email": "anonymous",
+        "perfil": "Profesional BI",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 78,
+            "habilidades": 78,
+            "conceptos": 78,
+            "visualización": 78,
+            "conocimientos": 100
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 100,
+            "orientación_visual": 100,
+            "pensamiento_sistemático": 75,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 75
+        },
+        "total_puntos": 36.0
+    },
+    {
+        "id": 7,
+        "nombre": "Participante 7",
+        "email": "anonymous",
+        "perfil": "Analista Cuantitativo",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 78,
+            "habilidades": 78,
+            "conceptos": 67,
+            "visualización": 56,
+            "conocimientos": 62
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 67,
+            "orientación_visual": 33,
+            "pensamiento_sistemático": 50,
+            "perspectiva_de_usuario": 67,
+            "mentalidad_de_optimización": 50
+        },
+        "total_puntos": 30.0
+    },
+    {
+        "id": 8,
+        "nombre": "Participante 8",
+        "email": "anonymous",
+        "perfil": "Híbrido (Habilidades/Visualización)",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 67,
+            "habilidades": 89,
+            "conceptos": 56,
+            "visualización": 78,
+            "conocimientos": 75
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 100,
+            "orientación_visual": 100,
+            "pensamiento_sistemático": 75,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 75
+        },
+        "total_puntos": 32.0
+    },
+    {
+        "id": 9,
+        "nombre": "Participante 9",
+        "email": "anonymous",
+        "perfil": "Profesional BI",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 89,
+            "habilidades": 67,
+            "conceptos": 89,
+            "visualización": 67,
+            "conocimientos": 100
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 100,
+            "orientación_visual": 67,
+            "pensamiento_sistemático": 75,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 75
+        },
+        "total_puntos": 36.0
+    },
+    {
+        "id": 10,
+        "nombre": "Participante 10",
+        "email": "anonymous",
+        "perfil": "Desarrollador Técnico",
+        "perfil_secundario": "Analítico",
+        "dominios": {
+            "fundamentos": 89,
+            "habilidades": 78,
+            "conceptos": 100,
+            "visualización": 44,
+            "conocimientos": 88
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 67,
+            "orientación_visual": 67,
+            "pensamiento_sistemático": 100,
+            "perspectiva_de_usuario": 67,
+            "mentalidad_de_optimización": 75
+        },
+        "total_puntos": 35.0
+    },
+    {
+        "id": 11,
+        "nombre": "Participante 11",
+        "email": "anonymous",
+        "perfil": "Profesional BI",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 100,
+            "habilidades": 89,
+            "conceptos": 89,
+            "visualización": 100,
+            "conocimientos": 88
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 100,
+            "orientación_visual": 100,
+            "pensamiento_sistemático": 75,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 75
+        },
+        "total_puntos": 41.0
+    },
+    {
+        "id": 12,
+        "nombre": "Participante 12",
+        "email": "anonymous",
+        "perfil": "Desarrollador Técnico",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 44,
+            "habilidades": 89,
+            "conceptos": 89,
+            "visualización": 44,
+            "conocimientos": 88
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 33,
+            "orientación_visual": 67,
+            "pensamiento_sistemático": 100,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 100
+        },
+        "total_puntos": 31.0
+    },
+    {
+        "id": 13,
+        "nombre": "Participante 13",
+        "email": "anonymous",
+        "perfil": "Profesional BI",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 89,
+            "habilidades": 89,
+            "conceptos": 78,
+            "visualización": 89,
+            "conocimientos": 75
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 100,
+            "orientación_visual": 100,
+            "pensamiento_sistemático": 75,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 25
+        },
+        "total_puntos": 37.0
+    },
+    {
+        "id": 14,
+        "nombre": "Participante 14",
+        "email": "anonymous",
+        "perfil": "Profesional BI",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 67,
+            "habilidades": 78,
+            "conceptos": 78,
+            "visualización": 67,
+            "conocimientos": 75
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 67,
+            "orientación_visual": 67,
+            "pensamiento_sistemático": 75,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 75
+        },
+        "total_puntos": 32.0
+    },
+    {
+        "id": 15,
+        "nombre": "Participante 15",
+        "email": "anonymous",
+        "perfil": "Profesional BI",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 100,
+            "habilidades": 78,
+            "conceptos": 89,
+            "visualización": 89,
+            "conocimientos": 100
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 100,
+            "orientación_visual": 67,
+            "pensamiento_sistemático": 75,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 50
+        },
+        "total_puntos": 40.0
+    },
+    {
+        "id": 16,
+        "nombre": "Participante 16",
+        "email": "anonymous",
+        "perfil": "Profesional BI",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 67,
+            "habilidades": 89,
+            "conceptos": 100,
+            "visualización": 78,
+            "conocimientos": 100
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 67,
+            "orientación_visual": 67,
+            "pensamiento_sistemático": 100,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 75
+        },
+        "total_puntos": 38.0
+    },
+    {
+        "id": 17,
+        "nombre": "Participante 17",
+        "email": "anonymous",
+        "perfil": "Profesional BI",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 89,
+            "habilidades": 78,
+            "conceptos": 100,
+            "visualización": 100,
+            "conocimientos": 100
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 100,
+            "orientación_visual": 100,
+            "pensamiento_sistemático": 100,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 75
+        },
+        "total_puntos": 41.0
+    },
+    {
+        "id": 18,
+        "nombre": "Participante 18",
+        "email": "anonymous",
+        "perfil": "Profesional BI",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 67,
+            "habilidades": 67,
+            "conceptos": 100,
+            "visualización": 67,
+            "conocimientos": 75
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 67,
+            "orientación_visual": 100,
+            "pensamiento_sistemático": 100,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 75
+        },
+        "total_puntos": 33.0
+    },
+    {
+        "id": 19,
+        "nombre": "Participante 19",
+        "email": "anonymous",
+        "perfil": "Profesional BI",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 78,
+            "habilidades": 78,
+            "conceptos": 78,
+            "visualización": 78,
+            "conocimientos": 75
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 100,
+            "orientación_visual": 67,
+            "pensamiento_sistemático": 100,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 75
+        },
+        "total_puntos": 34.0
+    },
+    {
+        "id": 20,
+        "nombre": "Participante 20",
+        "email": "anonymous",
+        "perfil": "Científico de Datos",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 78,
+            "habilidades": 89,
+            "conceptos": 89,
+            "visualización": 67,
+            "conocimientos": 50
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 67,
+            "orientación_visual": 100,
+            "pensamiento_sistemático": 75,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 50
+        },
+        "total_puntos": 33.0
+    },
+    {
+        "id": 21,
+        "nombre": "Participante 21",
+        "email": "anonymous",
+        "perfil": "Profesional BI",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 67,
+            "habilidades": 89,
+            "conceptos": 78,
+            "visualización": 89,
+            "conocimientos": 75
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 67,
+            "orientación_visual": 100,
+            "pensamiento_sistemático": 75,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 75
+        },
+        "total_puntos": 35.0
+    },
+    {
+        "id": 22,
+        "nombre": "Participante 22",
+        "email": "anonymous",
+        "perfil": "Desarrollador Técnico",
+        "perfil_secundario": "Analítico",
+        "dominios": {
+            "fundamentos": 67,
+            "habilidades": 89,
+            "conceptos": 100,
+            "visualización": 44,
+            "conocimientos": 88
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 67,
+            "orientación_visual": 33,
+            "pensamiento_sistemático": 100,
+            "perspectiva_de_usuario": 67,
+            "mentalidad_de_optimización": 75
+        },
+        "total_puntos": 34.0
+    },
+    {
+        "id": 23,
+        "nombre": "Participante 23",
+        "email": "anonymous",
+        "perfil": "Científico de Datos",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 89,
+            "habilidades": 56,
+            "conceptos": 67,
+            "visualización": 67,
+            "conocimientos": 100
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 100,
+            "orientación_visual": 100,
+            "pensamiento_sistemático": 75,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 50
+        },
+        "total_puntos": 33.0
+    },
+    {
+        "id": 24,
+        "nombre": "Participante 24",
+        "email": "anonymous",
+        "perfil": "Profesional BI",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 78,
+            "habilidades": 100,
+            "conceptos": 89,
+            "visualización": 89,
+            "conocimientos": 75
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 67,
+            "orientación_visual": 100,
+            "pensamiento_sistemático": 100,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 75
+        },
+        "total_puntos": 38.0
+    },
+    {
+        "id": 25,
+        "nombre": "Participante 25",
+        "email": "anonymous",
+        "perfil": "Híbrido (Habilidades/Conceptos)",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 78,
+            "habilidades": 89,
+            "conceptos": 89,
+            "visualización": 56,
+            "conocimientos": 75
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 100,
+            "orientación_visual": 67,
+            "pensamiento_sistemático": 100,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 75
+        },
+        "total_puntos": 34.0
+    },
+    {
+        "id": 26,
+        "nombre": "Participante 26",
+        "email": "anonymous",
+        "perfil": "Profesional BI",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 100,
+            "habilidades": 89,
+            "conceptos": 100,
+            "visualización": 78,
+            "conocimientos": 88
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 100,
+            "orientación_visual": 100,
+            "pensamiento_sistemático": 100,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 100
+        },
+        "total_puntos": 40.0
+    },
+    {
+        "id": 27,
+        "nombre": "Participante 27",
+        "email": "anonymous",
+        "perfil": "Híbrido (Habilidades/Visualización)",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 56,
+            "habilidades": 67,
+            "conceptos": 56,
+            "visualización": 67,
+            "conocimientos": 50
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 67,
+            "orientación_visual": 67,
+            "pensamiento_sistemático": 75,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 50
+        },
+        "total_puntos": 26.0
+    },
+    {
+        "id": 28,
+        "nombre": "Participante 28",
+        "email": "anonymous",
+        "perfil": "Técnico-Analítico",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 67,
+            "habilidades": 11,
+            "conceptos": 89,
+            "visualización": 33,
+            "conocimientos": 25
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 100,
+            "orientación_visual": 67,
+            "pensamiento_sistemático": 100,
+            "perspectiva_de_usuario": 67,
+            "mentalidad_de_optimización": 25
+        },
+        "total_puntos": 20.0
+    },
+    {
+        "id": 29,
+        "nombre": "Participante 29",
+        "email": "anonymous",
+        "perfil": "Profesional BI",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 100,
+            "habilidades": 78,
+            "conceptos": 100,
+            "visualización": 100,
+            "conocimientos": 100
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 100,
+            "orientación_visual": 100,
+            "pensamiento_sistemático": 100,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 75
+        },
+        "total_puntos": 42.0
+    },
+    {
+        "id": 30,
+        "nombre": "Participante 30",
+        "email": "anonymous",
+        "perfil": "Profesional BI",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 78,
+            "habilidades": 89,
+            "conceptos": 100,
+            "visualización": 89,
+            "conocimientos": 88
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 100,
+            "orientación_visual": 100,
+            "pensamiento_sistemático": 100,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 100
+        },
+        "total_puntos": 39.0
+    },
+    {
+        "id": 31,
+        "nombre": "Participante 31",
+        "email": "anonymous",
+        "perfil": "Híbrido (Habilidades/Conocimientos)",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 56,
+            "habilidades": 89,
+            "conceptos": 67,
+            "visualización": 56,
+            "conocimientos": 75
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 67,
+            "orientación_visual": 67,
+            "pensamiento_sistemático": 100,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 75
+        },
+        "total_puntos": 30.0
+    },
+    {
+        "id": 32,
+        "nombre": "Participante 32",
+        "email": "anonymous",
+        "perfil": "Híbrido (Conceptos/Fundamentos)",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 67,
+            "habilidades": 44,
+            "conceptos": 100,
+            "visualización": 67,
+            "conocimientos": 62
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 67,
+            "orientación_visual": 100,
+            "pensamiento_sistemático": 100,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 50
+        },
+        "total_puntos": 30.0
+    },
+    {
+        "id": 33,
+        "nombre": "Participante 33",
+        "email": "anonymous",
+        "perfil": "Híbrido (Habilidades/Conceptos)",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 67,
+            "habilidades": 89,
+            "conceptos": 78,
+            "visualización": 56,
+            "conocimientos": 62
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 100,
+            "orientación_visual": 67,
+            "pensamiento_sistemático": 100,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 75
+        },
+        "total_puntos": 31.0
+    },
+    {
+        "id": 34,
+        "nombre": "Participante 34",
+        "email": "anonymous",
+        "perfil": "Profesional BI",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 78,
+            "habilidades": 89,
+            "conceptos": 89,
+            "visualización": 78,
+            "conocimientos": 88
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 100,
+            "orientación_visual": 100,
+            "pensamiento_sistemático": 100,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 75
+        },
+        "total_puntos": 37.0
+    },
+    {
+        "id": 35,
+        "nombre": "Participante 35",
+        "email": "anonymous",
+        "perfil": "Profesional BI",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 67,
+            "habilidades": 89,
+            "conceptos": 89,
+            "visualización": 78,
+            "conocimientos": 88
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 67,
+            "orientación_visual": 67,
+            "pensamiento_sistemático": 100,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 75
+        },
+        "total_puntos": 36.0
+    },
+    {
+        "id": 36,
+        "nombre": "Participante 36",
+        "email": "anonymous",
+        "perfil": "Modelador BI",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 56,
+            "habilidades": 56,
+            "conceptos": 89,
+            "visualización": 44,
+            "conocimientos": 62
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 67,
+            "orientación_visual": 67,
+            "pensamiento_sistemático": 100,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 50
+        },
+        "total_puntos": 27.0
+    },
+    {
+        "id": 37,
+        "nombre": "Participante 37",
+        "email": "anonymous",
+        "perfil": "Híbrido (Conceptos/Visualización)",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 56,
+            "habilidades": 67,
+            "conceptos": 78,
+            "visualización": 78,
+            "conocimientos": 75
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 67,
+            "orientación_visual": 100,
+            "pensamiento_sistemático": 100,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 100
+        },
+        "total_puntos": 31.0
+    },
+    {
+        "id": 38,
+        "nombre": "Participante 38",
+        "email": "anonymous",
+        "perfil": "Profesional BI",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 67,
+            "habilidades": 67,
+            "conceptos": 100,
+            "visualización": 67,
+            "conocimientos": 75
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 67,
+            "orientación_visual": 67,
+            "pensamiento_sistemático": 100,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 100
+        },
+        "total_puntos": 33.0
+    },
+    {
+        "id": 39,
+        "nombre": "Participante 39",
+        "email": "anonymous",
+        "perfil": "Profesional BI",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 67,
+            "habilidades": 89,
+            "conceptos": 100,
+            "visualización": 89,
+            "conocimientos": 100
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 67,
+            "orientación_visual": 100,
+            "pensamiento_sistemático": 100,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 75
+        },
+        "total_puntos": 39.0
+    },
+    {
+        "id": 40,
+        "nombre": "Participante 40",
+        "email": "anonymous",
+        "perfil": "Híbrido (Habilidades/Conceptos)",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 78,
+            "habilidades": 100,
+            "conceptos": 89,
+            "visualización": 56,
+            "conocimientos": 88
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 100,
+            "orientación_visual": 33,
+            "pensamiento_sistemático": 100,
+            "perspectiva_de_usuario": 67,
+            "mentalidad_de_optimización": 100
+        },
+        "total_puntos": 36.0
+    },
+    {
+        "id": 41,
+        "nombre": "Participante 41",
+        "email": "anonymous",
+        "perfil": "Híbrido (Conocimientos/Habilidades)",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 67,
+            "habilidades": 78,
+            "conceptos": 56,
+            "visualización": 56,
+            "conocimientos": 88
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 67,
+            "orientación_visual": 67,
+            "pensamiento_sistemático": 75,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 75
+        },
+        "total_puntos": 30.0
+    },
+    {
+        "id": 42,
+        "nombre": "Participante 42",
+        "email": "anonymous",
+        "perfil": "Profesional BI",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 89,
+            "habilidades": 89,
+            "conceptos": 67,
+            "visualización": 100,
+            "conocimientos": 75
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 100,
+            "orientación_visual": 100,
+            "pensamiento_sistemático": 50,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 25
+        },
+        "total_puntos": 37.0
+    },
+    {
+        "id": 43,
+        "nombre": "Participante 43",
+        "email": "anonymous",
+        "perfil": "Profesional BI",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 78,
+            "habilidades": 100,
+            "conceptos": 78,
+            "visualización": 89,
+            "conocimientos": 75
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 100,
+            "orientación_visual": 100,
+            "pensamiento_sistemático": 75,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 75
+        },
+        "total_puntos": 37.0
+    },
+    {
+        "id": 44,
+        "nombre": "Participante 44",
+        "email": "anonymous",
+        "perfil": "Dashboard Developer",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 56,
+            "habilidades": 56,
+            "conceptos": 67,
+            "visualización": 78,
+            "conocimientos": 75
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 67,
+            "orientación_visual": 100,
+            "pensamiento_sistemático": 50,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 50
+        },
+        "total_puntos": 29.0
+    },
+    {
+        "id": 45,
+        "nombre": "Participante 45",
+        "email": "anonymous",
+        "perfil": "Profesional BI",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 67,
+            "habilidades": 100,
+            "conceptos": 78,
+            "visualización": 78,
+            "conocimientos": 75
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 100,
+            "orientación_visual": 100,
+            "pensamiento_sistemático": 100,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 75
+        },
+        "total_puntos": 35.0
+    },
+    {
+        "id": 46,
+        "nombre": "Participante 46",
+        "email": "anonymous",
+        "perfil": "Profesional BI",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 78,
+            "habilidades": 89,
+            "conceptos": 78,
+            "visualización": 78,
+            "conocimientos": 62
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 100,
+            "orientación_visual": 100,
+            "pensamiento_sistemático": 75,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 75
+        },
+        "total_puntos": 34.0
+    },
+    {
+        "id": 47,
+        "nombre": "Participante 47",
+        "email": "anonymous",
+        "perfil": "Híbrido (Conceptos/Habilidades)",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 56,
+            "habilidades": 67,
+            "conceptos": 89,
+            "visualización": 44,
+            "conocimientos": 50
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 67,
+            "orientación_visual": 33,
+            "pensamiento_sistemático": 100,
+            "perspectiva_de_usuario": 67,
+            "mentalidad_de_optimización": 50
+        },
+        "total_puntos": 27.0
+    },
+    {
+        "id": 48,
+        "nombre": "Participante 48",
+        "email": "anonymous",
+        "perfil": "Profesional BI",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 89,
+            "habilidades": 89,
+            "conceptos": 100,
+            "visualización": 78,
+            "conocimientos": 100
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 100,
+            "orientación_visual": 67,
+            "pensamiento_sistemático": 100,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 100
+        },
+        "total_puntos": 40.0
+    },
+    {
+        "id": 49,
+        "nombre": "Participante 49",
+        "email": "anonymous",
+        "perfil": "Híbrido (Conocimientos/Habilidades)",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 56,
+            "habilidades": 78,
+            "conceptos": 78,
+            "visualización": 78,
+            "conocimientos": 88
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 33,
+            "orientación_visual": 67,
+            "pensamiento_sistemático": 75,
+            "perspectiva_de_usuario": 67,
+            "mentalidad_de_optimización": 50
+        },
+        "total_puntos": 33.0
+    },
+    {
+        "id": 50,
+        "nombre": "Participante 50",
+        "email": "anonymous",
+        "perfil": "Profesional BI",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 78,
+            "habilidades": 89,
+            "conceptos": 89,
+            "visualización": 78,
+            "conocimientos": 100
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 100,
+            "orientación_visual": 100,
+            "pensamiento_sistemático": 100,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 75
+        },
+        "total_puntos": 38.0
+    },
+    {
+        "id": 51,
+        "nombre": "Participante 51",
+        "email": "anonymous",
+        "perfil": "Profesional BI",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 78,
+            "habilidades": 89,
+            "conceptos": 89,
+            "visualización": 89,
+            "conocimientos": 88
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 67,
+            "orientación_visual": 100,
+            "pensamiento_sistemático": 75,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 50
+        },
+        "total_puntos": 38.0
+    },
+    {
+        "id": 52,
+        "nombre": "Participante 52",
+        "email": "anonymous",
+        "perfil": "Híbrido (Habilidades/Conceptos)",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 56,
+            "habilidades": 100,
+            "conceptos": 89,
+            "visualización": 67,
+            "conocimientos": 88
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 100,
+            "orientación_visual": 100,
+            "pensamiento_sistemático": 100,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 100
+        },
+        "total_puntos": 35.0
+    },
+    {
+        "id": 53,
+        "nombre": "Participante 53",
+        "email": "anonymous",
+        "perfil": "Profesional BI",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 78,
+            "habilidades": 78,
+            "conceptos": 67,
+            "visualización": 78,
+            "conocimientos": 100
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 100,
+            "orientación_visual": 100,
+            "pensamiento_sistemático": 75,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 75
+        },
+        "total_puntos": 35.0
+    },
+    {
+        "id": 54,
+        "nombre": "Participante 54",
+        "email": "anonymous",
+        "perfil": "Profesional BI",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 89,
+            "habilidades": 100,
+            "conceptos": 78,
+            "visualización": 89,
+            "conocimientos": 88
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 100,
+            "orientación_visual": 100,
+            "pensamiento_sistemático": 100,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 100
+        },
+        "total_puntos": 39.0
+    },
+    {
+        "id": 55,
+        "nombre": "Participante 55",
+        "email": "anonymous",
+        "perfil": "Híbrido (Conceptos/Visualización)",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 67,
+            "habilidades": 44,
+            "conceptos": 78,
+            "visualización": 78,
+            "conocimientos": 62
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 67,
+            "orientación_visual": 100,
+            "pensamiento_sistemático": 75,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 50
+        },
+        "total_puntos": 29.0
+    },
+    {
+        "id": 56,
+        "nombre": "Participante 56",
+        "email": "anonymous",
+        "perfil": "Profesional BI",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 78,
+            "habilidades": 89,
+            "conceptos": 89,
+            "visualización": 78,
+            "conocimientos": 88
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 100,
+            "orientación_visual": 100,
+            "pensamiento_sistemático": 75,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 75
+        },
+        "total_puntos": 37.0
+    },
+    {
+        "id": 57,
+        "nombre": "Participante 57",
+        "email": "anonymous",
+        "perfil": "Profesional BI",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 78,
+            "habilidades": 100,
+            "conceptos": 89,
+            "visualización": 100,
+            "conocimientos": 75
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 100,
+            "orientación_visual": 100,
+            "pensamiento_sistemático": 100,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 75
+        },
+        "total_puntos": 39.0
+    },
+    {
+        "id": 58,
+        "nombre": "Participante 58",
+        "email": "anonymous",
+        "perfil": "Profesional BI",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 67,
+            "habilidades": 78,
+            "conceptos": 89,
+            "visualización": 67,
+            "conocimientos": 100
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 67,
+            "orientación_visual": 67,
+            "pensamiento_sistemático": 100,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 75
+        },
+        "total_puntos": 35.0
+    },
+    {
+        "id": 59,
+        "nombre": "Participante 59",
+        "email": "anonymous",
+        "perfil": "Profesional BI",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 78,
+            "habilidades": 89,
+            "conceptos": 100,
+            "visualización": 100,
+            "conocimientos": 75
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 100,
+            "orientación_visual": 100,
+            "pensamiento_sistemático": 100,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 75
+        },
+        "total_puntos": 39.0
+    },
+    {
+        "id": 60,
+        "nombre": "Participante 60",
+        "email": "anonymous",
+        "perfil": "Híbrido (Visualización/Conceptos)",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 67,
+            "habilidades": 56,
+            "conceptos": 89,
+            "visualización": 100,
+            "conocimientos": 75
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 67,
+            "orientación_visual": 100,
+            "pensamiento_sistemático": 75,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 25
+        },
+        "total_puntos": 34.0
+    },
+    {
+        "id": 61,
+        "nombre": "Participante 61",
+        "email": "anonymous",
+        "perfil": "Profesional BI",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 67,
+            "habilidades": 100,
+            "conceptos": 100,
+            "visualización": 78,
+            "conocimientos": 100
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 67,
+            "orientación_visual": 100,
+            "pensamiento_sistemático": 100,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 100
+        },
+        "total_puntos": 39.0
+    },
+    {
+        "id": 62,
+        "nombre": "Participante 62",
+        "email": "anonymous",
+        "perfil": "Híbrido (Conceptos/Visualización)",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 44,
+            "habilidades": 44,
+            "conceptos": 100,
+            "visualización": 67,
+            "conocimientos": 62
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 67,
+            "orientación_visual": 67,
+            "pensamiento_sistemático": 100,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 50
+        },
+        "total_puntos": 28.0
+    },
+    {
+        "id": 63,
+        "nombre": "Participante 63",
+        "email": "anonymous",
+        "perfil": "Profesional BI",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 100,
+            "habilidades": 89,
+            "conceptos": 100,
+            "visualización": 100,
+            "conocimientos": 88
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 100,
+            "orientación_visual": 100,
+            "pensamiento_sistemático": 100,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 75
+        },
+        "total_puntos": 42.0
+    },
+    {
+        "id": 64,
+        "nombre": "Participante 64",
+        "email": "anonymous",
+        "perfil": "Transición de Excel",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 56,
+            "habilidades": 89,
+            "conceptos": 78,
+            "visualización": 56,
+            "conocimientos": 38
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 67,
+            "orientación_visual": 67,
+            "pensamiento_sistemático": 100,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 50
+        },
+        "total_puntos": 28.0
+    },
+    {
+        "id": 65,
+        "nombre": "Participante 65",
+        "email": "anonymous",
+        "perfil": "Híbrido (Fundamentos/Conocimientos)",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 100,
+            "habilidades": 78,
+            "conceptos": 78,
+            "visualización": 56,
+            "conocimientos": 100
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 100,
+            "orientación_visual": 67,
+            "pensamiento_sistemático": 75,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 75
+        },
+        "total_puntos": 36.0
+    },
+    {
+        "id": 66,
+        "nombre": "Participante 66",
+        "email": "anonymous",
+        "perfil": "Profesional BI",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 78,
+            "habilidades": 89,
+            "conceptos": 89,
+            "visualización": 78,
+            "conocimientos": 100
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 67,
+            "orientación_visual": 67,
+            "pensamiento_sistemático": 100,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 100
+        },
+        "total_puntos": 38.0
+    },
+    {
+        "id": 67,
+        "nombre": "Participante 67",
+        "email": "anonymous",
+        "perfil": "Profesional BI",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 78,
+            "habilidades": 100,
+            "conceptos": 100,
+            "visualización": 78,
+            "conocimientos": 88
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 67,
+            "orientación_visual": 100,
+            "pensamiento_sistemático": 100,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 100
+        },
+        "total_puntos": 39.0
+    },
+    {
+        "id": 68,
+        "nombre": "Participante 68",
+        "email": "anonymous",
+        "perfil": "Profesional BI",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 78,
+            "habilidades": 89,
+            "conceptos": 78,
+            "visualización": 89,
+            "conocimientos": 88
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 100,
+            "orientación_visual": 100,
+            "pensamiento_sistemático": 75,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 50
+        },
+        "total_puntos": 37.0
+    },
+    {
+        "id": 69,
+        "nombre": "Participante 69",
+        "email": "anonymous",
+        "perfil": "Profesional BI",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 89,
+            "habilidades": 100,
+            "conceptos": 100,
+            "visualización": 78,
+            "conocimientos": 88
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 100,
+            "orientación_visual": 67,
+            "pensamiento_sistemático": 100,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 100
+        },
+        "total_puntos": 40.0
+    },
+    {
+        "id": 70,
+        "nombre": "Participante 70",
+        "email": "anonymous",
+        "perfil": "Profesional BI",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 89,
+            "habilidades": 100,
+            "conceptos": 89,
+            "visualización": 89,
+            "conocimientos": 100
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 100,
+            "orientación_visual": 67,
+            "pensamiento_sistemático": 75,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 75
+        },
+        "total_puntos": 41.0
+    },
+    {
+        "id": 71,
+        "nombre": "Participante 71",
+        "email": "anonymous",
+        "perfil": "Profesional BI",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 67,
+            "habilidades": 78,
+            "conceptos": 89,
+            "visualización": 89,
+            "conocimientos": 88
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 67,
+            "orientación_visual": 100,
+            "pensamiento_sistemático": 100,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 50
+        },
+        "total_puntos": 36.0
+    },
+    {
+        "id": 72,
+        "nombre": "Participante 72",
+        "email": "anonymous",
+        "perfil": "Profesional BI",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 89,
+            "habilidades": 67,
+            "conceptos": 89,
+            "visualización": 89,
+            "conocimientos": 88
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 100,
+            "orientación_visual": 100,
+            "pensamiento_sistemático": 100,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 100
+        },
+        "total_puntos": 37.0
+    },
+    {
+        "id": 73,
+        "nombre": "Participante 73",
+        "email": "anonymous",
+        "perfil": "Técnico-Analítico",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 89,
+            "habilidades": 56,
+            "conceptos": 78,
+            "visualización": 44,
+            "conocimientos": 38
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 100,
+            "orientación_visual": 67,
+            "pensamiento_sistemático": 75,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 25
+        },
+        "total_puntos": 27.0
+    },
+    {
+        "id": 74,
+        "nombre": "Participante 74",
+        "email": "anonymous",
+        "perfil": "Profesional BI",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 67,
+            "habilidades": 67,
+            "conceptos": 78,
+            "visualización": 78,
+            "conocimientos": 75
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 67,
+            "orientación_visual": 67,
+            "pensamiento_sistemático": 75,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 25
+        },
+        "total_puntos": 32.0
+    },
+    {
+        "id": 75,
+        "nombre": "Participante 75",
+        "email": "anonymous",
+        "perfil": "Profesional BI",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 89,
+            "habilidades": 67,
+            "conceptos": 89,
+            "visualización": 78,
+            "conocimientos": 100
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 100,
+            "orientación_visual": 67,
+            "pensamiento_sistemático": 75,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 75
+        },
+        "total_puntos": 37.0
+    },
+    {
+        "id": 76,
+        "nombre": "Participante 76",
+        "email": "anonymous",
+        "perfil": "Profesional BI",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 100,
+            "habilidades": 89,
+            "conceptos": 100,
+            "visualización": 89,
+            "conocimientos": 100
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 100,
+            "orientación_visual": 67,
+            "pensamiento_sistemático": 100,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 75
+        },
+        "total_puntos": 42.0
+    },
+    {
+        "id": 77,
+        "nombre": "Participante 77",
+        "email": "anonymous",
+        "perfil": "Profesional BI",
+        "perfil_secundario": null,
+        "dominios": {
+            "fundamentos": 78,
+            "habilidades": 78,
+            "conceptos": 89,
+            "visualización": 89,
+            "conocimientos": 88
+        },
+        "habilidades_blandas": {
+            "pensamiento_analítico": 67,
+            "orientación_visual": 100,
+            "pensamiento_sistemático": 100,
+            "perspectiva_de_usuario": 100,
+            "mentalidad_de_optimización": 100
+        },
+        "total_puntos": 37.0
+    }
+]

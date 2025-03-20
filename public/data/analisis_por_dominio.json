@@ -1,0 +1,2451 @@
+{
+    "Fundamentos de Datos y Análisis": {
+        "participantes": {
+            "1": {
+                "porcentaje": 66.66666666666666,
+                "puntos": 6.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "2": {
+                "porcentaje": 66.66666666666666,
+                "puntos": 6.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "3": {
+                "porcentaje": 66.66666666666666,
+                "puntos": 6.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "4": {
+                "porcentaje": 55.55555555555556,
+                "puntos": 5.0,
+                "max_puntos": 9,
+                "nivel": "Básico"
+            },
+            "5": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "6": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "7": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "8": {
+                "porcentaje": 66.66666666666666,
+                "puntos": 6.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "9": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "10": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "11": {
+                "porcentaje": 100.0,
+                "puntos": 9.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "12": {
+                "porcentaje": 44.44444444444444,
+                "puntos": 4.0,
+                "max_puntos": 9,
+                "nivel": "Básico"
+            },
+            "13": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "14": {
+                "porcentaje": 66.66666666666666,
+                "puntos": 6.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "15": {
+                "porcentaje": 100.0,
+                "puntos": 9.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "16": {
+                "porcentaje": 66.66666666666666,
+                "puntos": 6.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "17": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "18": {
+                "porcentaje": 66.66666666666666,
+                "puntos": 6.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "19": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "20": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "21": {
+                "porcentaje": 66.66666666666666,
+                "puntos": 6.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "22": {
+                "porcentaje": 66.66666666666666,
+                "puntos": 6.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "23": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "24": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "25": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "26": {
+                "porcentaje": 100.0,
+                "puntos": 9.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "27": {
+                "porcentaje": 55.55555555555556,
+                "puntos": 5.0,
+                "max_puntos": 9,
+                "nivel": "Básico"
+            },
+            "28": {
+                "porcentaje": 66.66666666666666,
+                "puntos": 6.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "29": {
+                "porcentaje": 100.0,
+                "puntos": 9.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "30": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "31": {
+                "porcentaje": 55.55555555555556,
+                "puntos": 5.0,
+                "max_puntos": 9,
+                "nivel": "Básico"
+            },
+            "32": {
+                "porcentaje": 66.66666666666666,
+                "puntos": 6.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "33": {
+                "porcentaje": 66.66666666666666,
+                "puntos": 6.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "34": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "35": {
+                "porcentaje": 66.66666666666666,
+                "puntos": 6.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "36": {
+                "porcentaje": 55.55555555555556,
+                "puntos": 5.0,
+                "max_puntos": 9,
+                "nivel": "Básico"
+            },
+            "37": {
+                "porcentaje": 55.55555555555556,
+                "puntos": 5.0,
+                "max_puntos": 9,
+                "nivel": "Básico"
+            },
+            "38": {
+                "porcentaje": 66.66666666666666,
+                "puntos": 6.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "39": {
+                "porcentaje": 66.66666666666666,
+                "puntos": 6.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "40": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "41": {
+                "porcentaje": 66.66666666666666,
+                "puntos": 6.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "42": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "43": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "44": {
+                "porcentaje": 55.55555555555556,
+                "puntos": 5.0,
+                "max_puntos": 9,
+                "nivel": "Básico"
+            },
+            "45": {
+                "porcentaje": 66.66666666666666,
+                "puntos": 6.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "46": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "47": {
+                "porcentaje": 55.55555555555556,
+                "puntos": 5.0,
+                "max_puntos": 9,
+                "nivel": "Básico"
+            },
+            "48": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "49": {
+                "porcentaje": 55.55555555555556,
+                "puntos": 5.0,
+                "max_puntos": 9,
+                "nivel": "Básico"
+            },
+            "50": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "51": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "52": {
+                "porcentaje": 55.55555555555556,
+                "puntos": 5.0,
+                "max_puntos": 9,
+                "nivel": "Básico"
+            },
+            "53": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "54": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "55": {
+                "porcentaje": 66.66666666666666,
+                "puntos": 6.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "56": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "57": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "58": {
+                "porcentaje": 66.66666666666666,
+                "puntos": 6.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "59": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "60": {
+                "porcentaje": 66.66666666666666,
+                "puntos": 6.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "61": {
+                "porcentaje": 66.66666666666666,
+                "puntos": 6.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "62": {
+                "porcentaje": 44.44444444444444,
+                "puntos": 4.0,
+                "max_puntos": 9,
+                "nivel": "Básico"
+            },
+            "63": {
+                "porcentaje": 100.0,
+                "puntos": 9.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "64": {
+                "porcentaje": 55.55555555555556,
+                "puntos": 5.0,
+                "max_puntos": 9,
+                "nivel": "Básico"
+            },
+            "65": {
+                "porcentaje": 100.0,
+                "puntos": 9.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "66": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "67": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "68": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "69": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "70": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "71": {
+                "porcentaje": 66.66666666666666,
+                "puntos": 6.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "72": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "73": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "74": {
+                "porcentaje": 66.66666666666666,
+                "puntos": 6.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "75": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "76": {
+                "porcentaje": 100.0,
+                "puntos": 9.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "77": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            }
+        },
+        "estadisticas": {
+            "promedio": 74.60317460317461,
+            "mediana": 77.77777777777779,
+            "max": 100.0,
+            "min": 44.44444444444444,
+            "desviacion_estandar": 13.620894132079892
+        },
+        "distribucion_niveles": {
+            "Básico": 12,
+            "Intermedio": 23,
+            "Avanzado": 22,
+            "Experto": 20
+        },
+        "preguntas": [
+            "Points - P1. ¿Qué tipo de dato es más apropiado para un número de teléfono?",
+            "Points - P2. ¿Cuál de los siguientes es un ejemplo de dato cualitativo?",
+            "Points - P3. En un estudio de satisfacción del cliente, ¿cuál de las siguientes variables es de naturaleza ordinal?",
+            "Points - P4. Cuando un conjunto de datos tiene valores atípicos (outliers), ¿qué medida es más representativa?",
+            "Points - ¿Por qué es importante identificar correctamente si una variable es cuantitativa o cualitativa al crear un reporte?  ",
+            "Points - P6. Al examinar un conjunto de datos, ¿cuál es el enfoque más adecuado al encontrar un valor atípico?",
+            "Points - P7. ¿Qué medida de dispersión es menos sensible a valores atípicos?",
+            "Points - P8. En un gráfico de ventas mensuales durante 3 años consecutivos que muestra picos recurrentes en diciembre, esto indica:",
+            "Points - P9. Antes de generar un reporte en Power BI, ¿cuál es uno de los pasos fundamentales en el análisis de datos?"
+        ]
+    },
+    "Habilidades en Excel y Tablas": {
+        "participantes": {
+            "1": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "2": {
+                "porcentaje": 100.0,
+                "puntos": 9.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "3": {
+                "porcentaje": 66.66666666666666,
+                "puntos": 6.0,
+                "max_puntos": 9,
+                "nivel": "Básico"
+            },
+            "4": {
+                "porcentaje": 100.0,
+                "puntos": 9.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "5": {
+                "porcentaje": 100.0,
+                "puntos": 9.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "6": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "7": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "8": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "9": {
+                "porcentaje": 66.66666666666666,
+                "puntos": 6.0,
+                "max_puntos": 9,
+                "nivel": "Básico"
+            },
+            "10": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "11": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "12": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "13": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "14": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "15": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "16": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "17": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "18": {
+                "porcentaje": 66.66666666666666,
+                "puntos": 6.0,
+                "max_puntos": 9,
+                "nivel": "Básico"
+            },
+            "19": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "20": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "21": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "22": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "23": {
+                "porcentaje": 55.55555555555556,
+                "puntos": 5.0,
+                "max_puntos": 9,
+                "nivel": "Básico"
+            },
+            "24": {
+                "porcentaje": 100.0,
+                "puntos": 9.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "25": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "26": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "27": {
+                "porcentaje": 66.66666666666666,
+                "puntos": 6.0,
+                "max_puntos": 9,
+                "nivel": "Básico"
+            },
+            "28": {
+                "porcentaje": 11.11111111111111,
+                "puntos": 1.0,
+                "max_puntos": 9,
+                "nivel": "Básico"
+            },
+            "29": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "30": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "31": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "32": {
+                "porcentaje": 44.44444444444444,
+                "puntos": 4.0,
+                "max_puntos": 9,
+                "nivel": "Básico"
+            },
+            "33": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "34": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "35": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "36": {
+                "porcentaje": 55.55555555555556,
+                "puntos": 5.0,
+                "max_puntos": 9,
+                "nivel": "Básico"
+            },
+            "37": {
+                "porcentaje": 66.66666666666666,
+                "puntos": 6.0,
+                "max_puntos": 9,
+                "nivel": "Básico"
+            },
+            "38": {
+                "porcentaje": 66.66666666666666,
+                "puntos": 6.0,
+                "max_puntos": 9,
+                "nivel": "Básico"
+            },
+            "39": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "40": {
+                "porcentaje": 100.0,
+                "puntos": 9.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "41": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "42": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "43": {
+                "porcentaje": 100.0,
+                "puntos": 9.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "44": {
+                "porcentaje": 55.55555555555556,
+                "puntos": 5.0,
+                "max_puntos": 9,
+                "nivel": "Básico"
+            },
+            "45": {
+                "porcentaje": 100.0,
+                "puntos": 9.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "46": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "47": {
+                "porcentaje": 66.66666666666666,
+                "puntos": 6.0,
+                "max_puntos": 9,
+                "nivel": "Básico"
+            },
+            "48": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "49": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "50": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "51": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "52": {
+                "porcentaje": 100.0,
+                "puntos": 9.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "53": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "54": {
+                "porcentaje": 100.0,
+                "puntos": 9.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "55": {
+                "porcentaje": 44.44444444444444,
+                "puntos": 4.0,
+                "max_puntos": 9,
+                "nivel": "Básico"
+            },
+            "56": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "57": {
+                "porcentaje": 100.0,
+                "puntos": 9.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "58": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "59": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "60": {
+                "porcentaje": 55.55555555555556,
+                "puntos": 5.0,
+                "max_puntos": 9,
+                "nivel": "Básico"
+            },
+            "61": {
+                "porcentaje": 100.0,
+                "puntos": 9.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "62": {
+                "porcentaje": 44.44444444444444,
+                "puntos": 4.0,
+                "max_puntos": 9,
+                "nivel": "Básico"
+            },
+            "63": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "64": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "65": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "66": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "67": {
+                "porcentaje": 100.0,
+                "puntos": 9.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "68": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "69": {
+                "porcentaje": 100.0,
+                "puntos": 9.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "70": {
+                "porcentaje": 100.0,
+                "puntos": 9.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "71": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "72": {
+                "porcentaje": 66.66666666666666,
+                "puntos": 6.0,
+                "max_puntos": 9,
+                "nivel": "Básico"
+            },
+            "73": {
+                "porcentaje": 55.55555555555556,
+                "puntos": 5.0,
+                "max_puntos": 9,
+                "nivel": "Básico"
+            },
+            "74": {
+                "porcentaje": 66.66666666666666,
+                "puntos": 6.0,
+                "max_puntos": 9,
+                "nivel": "Básico"
+            },
+            "75": {
+                "porcentaje": 66.66666666666666,
+                "puntos": 6.0,
+                "max_puntos": 9,
+                "nivel": "Básico"
+            },
+            "76": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "77": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            }
+        },
+        "estadisticas": {
+            "promedio": 80.80808080808082,
+            "mediana": 88.88888888888889,
+            "max": 100.0,
+            "min": 11.11111111111111,
+            "desviacion_estandar": 16.571286834003573
+        },
+        "distribucion_niveles": {
+            "Básico": 19,
+            "Intermedio": 16,
+            "Avanzado": 28,
+            "Experto": 14
+        },
+        "preguntas": [
+            "Points - P10. ¿Qué función de Excel utilizarías para sumar un rango de celdas?",
+            "Points - P11. ¿Qué son las tablas dinámicas en Excel?",
+            "Points - P12. Para resaltar datos en Excel, ¿qué opción utilizarías?",
+            "Points - P13. ¿Qué función utilizarías para buscar un valor en la primera columna de una tabla y devolver un valor correspondiente de otra columna?",
+            "Points - P14. En Excel, la referencia $A$1:",
+            "Points - P15. ¿Cuál de estos formatos es mejor para el análisis en herramientas de BI como Power BI?",
+            "Points - P16. Para sumar valores que cumplan múltiples criterios, ¿qué función es más adecuada?",
+            "Points - P17. Al crear una tabla dinámica con jerarquías de tiempo, ¿qué función es útil para agrupar fechas automáticamente?",
+            "Points - P18. ¿Qué técnica utilizarías para crear un cálculo que muestre la contribución porcentual de cada valor a un total en una tabla dinámica?"
+        ]
+    },
+    "Conceptos de Bases de Datos": {
+        "participantes": {
+            "1": {
+                "porcentaje": 66.66666666666666,
+                "puntos": 6.0,
+                "max_puntos": 9,
+                "nivel": "Básico"
+            },
+            "2": {
+                "porcentaje": 55.55555555555556,
+                "puntos": 5.0,
+                "max_puntos": 9,
+                "nivel": "Básico"
+            },
+            "3": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "4": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "5": {
+                "porcentaje": 100.0,
+                "puntos": 9.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "6": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "7": {
+                "porcentaje": 66.66666666666666,
+                "puntos": 6.0,
+                "max_puntos": 9,
+                "nivel": "Básico"
+            },
+            "8": {
+                "porcentaje": 55.55555555555556,
+                "puntos": 5.0,
+                "max_puntos": 9,
+                "nivel": "Básico"
+            },
+            "9": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "10": {
+                "porcentaje": 100.0,
+                "puntos": 9.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "11": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "12": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "13": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "14": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "15": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "16": {
+                "porcentaje": 100.0,
+                "puntos": 9.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "17": {
+                "porcentaje": 100.0,
+                "puntos": 9.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "18": {
+                "porcentaje": 100.0,
+                "puntos": 9.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "19": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "20": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "21": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "22": {
+                "porcentaje": 100.0,
+                "puntos": 9.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "23": {
+                "porcentaje": 66.66666666666666,
+                "puntos": 6.0,
+                "max_puntos": 9,
+                "nivel": "Básico"
+            },
+            "24": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "25": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "26": {
+                "porcentaje": 100.0,
+                "puntos": 9.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "27": {
+                "porcentaje": 55.55555555555556,
+                "puntos": 5.0,
+                "max_puntos": 9,
+                "nivel": "Básico"
+            },
+            "28": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "29": {
+                "porcentaje": 100.0,
+                "puntos": 9.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "30": {
+                "porcentaje": 100.0,
+                "puntos": 9.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "31": {
+                "porcentaje": 66.66666666666666,
+                "puntos": 6.0,
+                "max_puntos": 9,
+                "nivel": "Básico"
+            },
+            "32": {
+                "porcentaje": 100.0,
+                "puntos": 9.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "33": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "34": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "35": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "36": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "37": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "38": {
+                "porcentaje": 100.0,
+                "puntos": 9.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "39": {
+                "porcentaje": 100.0,
+                "puntos": 9.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "40": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "41": {
+                "porcentaje": 55.55555555555556,
+                "puntos": 5.0,
+                "max_puntos": 9,
+                "nivel": "Básico"
+            },
+            "42": {
+                "porcentaje": 66.66666666666666,
+                "puntos": 6.0,
+                "max_puntos": 9,
+                "nivel": "Básico"
+            },
+            "43": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "44": {
+                "porcentaje": 66.66666666666666,
+                "puntos": 6.0,
+                "max_puntos": 9,
+                "nivel": "Básico"
+            },
+            "45": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "46": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "47": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "48": {
+                "porcentaje": 100.0,
+                "puntos": 9.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "49": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "50": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "51": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "52": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "53": {
+                "porcentaje": 66.66666666666666,
+                "puntos": 6.0,
+                "max_puntos": 9,
+                "nivel": "Básico"
+            },
+            "54": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "55": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "56": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "57": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "58": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "59": {
+                "porcentaje": 100.0,
+                "puntos": 9.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "60": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "61": {
+                "porcentaje": 100.0,
+                "puntos": 9.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "62": {
+                "porcentaje": 100.0,
+                "puntos": 9.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "63": {
+                "porcentaje": 100.0,
+                "puntos": 9.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "64": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "65": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "66": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "67": {
+                "porcentaje": 100.0,
+                "puntos": 9.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "68": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "69": {
+                "porcentaje": 100.0,
+                "puntos": 9.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "70": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "71": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "72": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "73": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "74": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "75": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "76": {
+                "porcentaje": 100.0,
+                "puntos": 9.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "77": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            }
+        },
+        "estadisticas": {
+            "promedio": 85.13708513708512,
+            "mediana": 88.88888888888889,
+            "max": 100.0,
+            "min": 55.55555555555556,
+            "desviacion_estandar": 12.356002671635006
+        },
+        "distribucion_niveles": {
+            "Básico": 11,
+            "Intermedio": 20,
+            "Avanzado": 26,
+            "Experto": 20
+        },
+        "preguntas": [
+            "Points - ¿Qué es una clave primaria en una base de datos?",
+            "Points - ¿Qué significa el término \"tabla\" en una base de datos?",
+            "Points - ¿Para qué sirven las relaciones entre tablas?",
+            "Points - ¿Qué tipo de relación existe entre una tabla de \"Clientes\" y una tabla de \"Pedidos\" donde cada cliente puede realizar múltiples pedidos?",
+            "Points - Cuando necesitas combinar información de dos tablas relacionadas, ¿qué operación utilizas?",
+            "Points - ¿Qué es la normalización de datos?",
+            "Points - Para mostrar todos los clientes, incluso aquellos que no han realizado compras, ¿qué tipo de unión usarías entre las tablas \"Clientes\" y \"Ventas\"?",
+            "Points - ¿Cuál de las siguientes NO es una forma normal en diseño de bases de datos?",
+            "Points - Para calcular subtotales agrupados por categoría y luego por subcategoría, con la posibilidad de expandir y contraer niveles, ¿qué operación es fundamental?"
+        ]
+    },
+    "Visualización de Datos": {
+        "participantes": {
+            "1": {
+                "porcentaje": 66.66666666666666,
+                "puntos": 6.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "2": {
+                "porcentaje": 66.66666666666666,
+                "puntos": 6.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "3": {
+                "porcentaje": 66.66666666666666,
+                "puntos": 6.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "4": {
+                "porcentaje": 33.33333333333333,
+                "puntos": 3.0,
+                "max_puntos": 9,
+                "nivel": "Básico"
+            },
+            "5": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "6": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "7": {
+                "porcentaje": 55.55555555555556,
+                "puntos": 5.0,
+                "max_puntos": 9,
+                "nivel": "Básico"
+            },
+            "8": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "9": {
+                "porcentaje": 66.66666666666666,
+                "puntos": 6.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "10": {
+                "porcentaje": 44.44444444444444,
+                "puntos": 4.0,
+                "max_puntos": 9,
+                "nivel": "Básico"
+            },
+            "11": {
+                "porcentaje": 100.0,
+                "puntos": 9.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "12": {
+                "porcentaje": 44.44444444444444,
+                "puntos": 4.0,
+                "max_puntos": 9,
+                "nivel": "Básico"
+            },
+            "13": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "14": {
+                "porcentaje": 66.66666666666666,
+                "puntos": 6.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "15": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "16": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "17": {
+                "porcentaje": 100.0,
+                "puntos": 9.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "18": {
+                "porcentaje": 66.66666666666666,
+                "puntos": 6.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "19": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "20": {
+                "porcentaje": 66.66666666666666,
+                "puntos": 6.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "21": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "22": {
+                "porcentaje": 44.44444444444444,
+                "puntos": 4.0,
+                "max_puntos": 9,
+                "nivel": "Básico"
+            },
+            "23": {
+                "porcentaje": 66.66666666666666,
+                "puntos": 6.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "24": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "25": {
+                "porcentaje": 55.55555555555556,
+                "puntos": 5.0,
+                "max_puntos": 9,
+                "nivel": "Básico"
+            },
+            "26": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "27": {
+                "porcentaje": 66.66666666666666,
+                "puntos": 6.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "28": {
+                "porcentaje": 33.33333333333333,
+                "puntos": 3.0,
+                "max_puntos": 9,
+                "nivel": "Básico"
+            },
+            "29": {
+                "porcentaje": 100.0,
+                "puntos": 9.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "30": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "31": {
+                "porcentaje": 55.55555555555556,
+                "puntos": 5.0,
+                "max_puntos": 9,
+                "nivel": "Básico"
+            },
+            "32": {
+                "porcentaje": 66.66666666666666,
+                "puntos": 6.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "33": {
+                "porcentaje": 55.55555555555556,
+                "puntos": 5.0,
+                "max_puntos": 9,
+                "nivel": "Básico"
+            },
+            "34": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "35": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "36": {
+                "porcentaje": 44.44444444444444,
+                "puntos": 4.0,
+                "max_puntos": 9,
+                "nivel": "Básico"
+            },
+            "37": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "38": {
+                "porcentaje": 66.66666666666666,
+                "puntos": 6.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "39": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "40": {
+                "porcentaje": 55.55555555555556,
+                "puntos": 5.0,
+                "max_puntos": 9,
+                "nivel": "Básico"
+            },
+            "41": {
+                "porcentaje": 55.55555555555556,
+                "puntos": 5.0,
+                "max_puntos": 9,
+                "nivel": "Básico"
+            },
+            "42": {
+                "porcentaje": 100.0,
+                "puntos": 9.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "43": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "44": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "45": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "46": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "47": {
+                "porcentaje": 44.44444444444444,
+                "puntos": 4.0,
+                "max_puntos": 9,
+                "nivel": "Básico"
+            },
+            "48": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "49": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "50": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "51": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "52": {
+                "porcentaje": 66.66666666666666,
+                "puntos": 6.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "53": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "54": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "55": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "56": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "57": {
+                "porcentaje": 100.0,
+                "puntos": 9.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "58": {
+                "porcentaje": 66.66666666666666,
+                "puntos": 6.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "59": {
+                "porcentaje": 100.0,
+                "puntos": 9.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "60": {
+                "porcentaje": 100.0,
+                "puntos": 9.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "61": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "62": {
+                "porcentaje": 66.66666666666666,
+                "puntos": 6.0,
+                "max_puntos": 9,
+                "nivel": "Intermedio"
+            },
+            "63": {
+                "porcentaje": 100.0,
+                "puntos": 9.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "64": {
+                "porcentaje": 55.55555555555556,
+                "puntos": 5.0,
+                "max_puntos": 9,
+                "nivel": "Básico"
+            },
+            "65": {
+                "porcentaje": 55.55555555555556,
+                "puntos": 5.0,
+                "max_puntos": 9,
+                "nivel": "Básico"
+            },
+            "66": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "67": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "68": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "69": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "70": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "71": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "72": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "73": {
+                "porcentaje": 44.44444444444444,
+                "puntos": 4.0,
+                "max_puntos": 9,
+                "nivel": "Básico"
+            },
+            "74": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "75": {
+                "porcentaje": 77.77777777777779,
+                "puntos": 7.0,
+                "max_puntos": 9,
+                "nivel": "Avanzado"
+            },
+            "76": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            },
+            "77": {
+                "porcentaje": 88.88888888888889,
+                "puntos": 8.0,
+                "max_puntos": 9,
+                "nivel": "Experto"
+            }
+        },
+        "estadisticas": {
+            "promedio": 74.3145743145743,
+            "mediana": 77.77777777777779,
+            "max": 100.0,
+            "min": 33.33333333333333,
+            "desviacion_estandar": 16.631491525799607
+        },
+        "distribucion_niveles": {
+            "Básico": 16,
+            "Intermedio": 14,
+            "Avanzado": 23,
+            "Experto": 24
+        },
+        "preguntas": [
+            "Points - ¿Qué tipo de gráfico es más adecuado para comparar valores entre diferentes categorías?",
+            "Points - ¿Cuál es el propósito principal de un dashboard?",
+            "Points - ¿Por qué es importante incluir títulos claros en las visualizaciones?",
+            "Points - ¿Qué visualización utilizarías para analizar la correlación entre el precio de un producto y su cantidad vendida?",
+            "Points - ¿Cuántas categorías es recomendable mostrar como máximo en un gráfico circular para que sea efectivo?",
+            "Points - ¿Qué principio de diseño visual recomienda comenzar los ejes numéricos en cero?",
+            "Points - ¿Qué técnica visual es más efectiva para mostrar la composición de un todo y también las contribuciones individuales a lo largo del tiempo?",
+            "Points - Para representar datos con tres variables donde una es categórica y dos son cuantitativas, ¿qué visualización sería más adecuada?",
+            "Points - En el contexto de visualización de datos, ¿qué significa el principio de \"reducción de la carga cognitiva\"?"
+        ]
+    },
+    "Conocimientos de Power BI": {
+        "participantes": {
+            "1": {
+                "porcentaje": 62.5,
+                "puntos": 5.0,
+                "max_puntos": 8,
+                "nivel": "Básico"
+            },
+            "2": {
+                "porcentaje": 37.5,
+                "puntos": 3.0,
+                "max_puntos": 8,
+                "nivel": "Básico"
+            },
+            "3": {
+                "porcentaje": 75.0,
+                "puntos": 6.0,
+                "max_puntos": 8,
+                "nivel": "Intermedio"
+            },
+            "4": {
+                "porcentaje": 50.0,
+                "puntos": 4.0,
+                "max_puntos": 8,
+                "nivel": "Básico"
+            },
+            "5": {
+                "porcentaje": 87.5,
+                "puntos": 7.0,
+                "max_puntos": 8,
+                "nivel": "Avanzado"
+            },
+            "6": {
+                "porcentaje": 100.0,
+                "puntos": 8.0,
+                "max_puntos": 8,
+                "nivel": "Experto"
+            },
+            "7": {
+                "porcentaje": 62.5,
+                "puntos": 5.0,
+                "max_puntos": 8,
+                "nivel": "Básico"
+            },
+            "8": {
+                "porcentaje": 75.0,
+                "puntos": 6.0,
+                "max_puntos": 8,
+                "nivel": "Intermedio"
+            },
+            "9": {
+                "porcentaje": 100.0,
+                "puntos": 8.0,
+                "max_puntos": 8,
+                "nivel": "Experto"
+            },
+            "10": {
+                "porcentaje": 87.5,
+                "puntos": 7.0,
+                "max_puntos": 8,
+                "nivel": "Avanzado"
+            },
+            "11": {
+                "porcentaje": 87.5,
+                "puntos": 7.0,
+                "max_puntos": 8,
+                "nivel": "Avanzado"
+            },
+            "12": {
+                "porcentaje": 87.5,
+                "puntos": 7.0,
+                "max_puntos": 8,
+                "nivel": "Avanzado"
+            },
+            "13": {
+                "porcentaje": 75.0,
+                "puntos": 6.0,
+                "max_puntos": 8,
+                "nivel": "Intermedio"
+            },
+            "14": {
+                "porcentaje": 75.0,
+                "puntos": 6.0,
+                "max_puntos": 8,
+                "nivel": "Intermedio"
+            },
+            "15": {
+                "porcentaje": 100.0,
+                "puntos": 8.0,
+                "max_puntos": 8,
+                "nivel": "Experto"
+            },
+            "16": {
+                "porcentaje": 100.0,
+                "puntos": 8.0,
+                "max_puntos": 8,
+                "nivel": "Experto"
+            },
+            "17": {
+                "porcentaje": 100.0,
+                "puntos": 8.0,
+                "max_puntos": 8,
+                "nivel": "Experto"
+            },
+            "18": {
+                "porcentaje": 75.0,
+                "puntos": 6.0,
+                "max_puntos": 8,
+                "nivel": "Intermedio"
+            },
+            "19": {
+                "porcentaje": 75.0,
+                "puntos": 6.0,
+                "max_puntos": 8,
+                "nivel": "Intermedio"
+            },
+            "20": {
+                "porcentaje": 50.0,
+                "puntos": 4.0,
+                "max_puntos": 8,
+                "nivel": "Básico"
+            },
+            "21": {
+                "porcentaje": 75.0,
+                "puntos": 6.0,
+                "max_puntos": 8,
+                "nivel": "Intermedio"
+            },
+            "22": {
+                "porcentaje": 87.5,
+                "puntos": 7.0,
+                "max_puntos": 8,
+                "nivel": "Avanzado"
+            },
+            "23": {
+                "porcentaje": 100.0,
+                "puntos": 8.0,
+                "max_puntos": 8,
+                "nivel": "Experto"
+            },
+            "24": {
+                "porcentaje": 75.0,
+                "puntos": 6.0,
+                "max_puntos": 8,
+                "nivel": "Intermedio"
+            },
+            "25": {
+                "porcentaje": 75.0,
+                "puntos": 6.0,
+                "max_puntos": 8,
+                "nivel": "Intermedio"
+            },
+            "26": {
+                "porcentaje": 87.5,
+                "puntos": 7.0,
+                "max_puntos": 8,
+                "nivel": "Avanzado"
+            },
+            "27": {
+                "porcentaje": 50.0,
+                "puntos": 4.0,
+                "max_puntos": 8,
+                "nivel": "Básico"
+            },
+            "28": {
+                "porcentaje": 25.0,
+                "puntos": 2.0,
+                "max_puntos": 8,
+                "nivel": "Básico"
+            },
+            "29": {
+                "porcentaje": 100.0,
+                "puntos": 8.0,
+                "max_puntos": 8,
+                "nivel": "Experto"
+            },
+            "30": {
+                "porcentaje": 87.5,
+                "puntos": 7.0,
+                "max_puntos": 8,
+                "nivel": "Avanzado"
+            },
+            "31": {
+                "porcentaje": 75.0,
+                "puntos": 6.0,
+                "max_puntos": 8,
+                "nivel": "Intermedio"
+            },
+            "32": {
+                "porcentaje": 62.5,
+                "puntos": 5.0,
+                "max_puntos": 8,
+                "nivel": "Básico"
+            },
+            "33": {
+                "porcentaje": 62.5,
+                "puntos": 5.0,
+                "max_puntos": 8,
+                "nivel": "Básico"
+            },
+            "34": {
+                "porcentaje": 87.5,
+                "puntos": 7.0,
+                "max_puntos": 8,
+                "nivel": "Avanzado"
+            },
+            "35": {
+                "porcentaje": 87.5,
+                "puntos": 7.0,
+                "max_puntos": 8,
+                "nivel": "Avanzado"
+            },
+            "36": {
+                "porcentaje": 62.5,
+                "puntos": 5.0,
+                "max_puntos": 8,
+                "nivel": "Básico"
+            },
+            "37": {
+                "porcentaje": 75.0,
+                "puntos": 6.0,
+                "max_puntos": 8,
+                "nivel": "Intermedio"
+            },
+            "38": {
+                "porcentaje": 75.0,
+                "puntos": 6.0,
+                "max_puntos": 8,
+                "nivel": "Intermedio"
+            },
+            "39": {
+                "porcentaje": 100.0,
+                "puntos": 8.0,
+                "max_puntos": 8,
+                "nivel": "Experto"
+            },
+            "40": {
+                "porcentaje": 87.5,
+                "puntos": 7.0,
+                "max_puntos": 8,
+                "nivel": "Avanzado"
+            },
+            "41": {
+                "porcentaje": 87.5,
+                "puntos": 7.0,
+                "max_puntos": 8,
+                "nivel": "Avanzado"
+            },
+            "42": {
+                "porcentaje": 75.0,
+                "puntos": 6.0,
+                "max_puntos": 8,
+                "nivel": "Intermedio"
+            },
+            "43": {
+                "porcentaje": 75.0,
+                "puntos": 6.0,
+                "max_puntos": 8,
+                "nivel": "Intermedio"
+            },
+            "44": {
+                "porcentaje": 75.0,
+                "puntos": 6.0,
+                "max_puntos": 8,
+                "nivel": "Intermedio"
+            },
+            "45": {
+                "porcentaje": 75.0,
+                "puntos": 6.0,
+                "max_puntos": 8,
+                "nivel": "Intermedio"
+            },
+            "46": {
+                "porcentaje": 62.5,
+                "puntos": 5.0,
+                "max_puntos": 8,
+                "nivel": "Básico"
+            },
+            "47": {
+                "porcentaje": 50.0,
+                "puntos": 4.0,
+                "max_puntos": 8,
+                "nivel": "Básico"
+            },
+            "48": {
+                "porcentaje": 100.0,
+                "puntos": 8.0,
+                "max_puntos": 8,
+                "nivel": "Experto"
+            },
+            "49": {
+                "porcentaje": 87.5,
+                "puntos": 7.0,
+                "max_puntos": 8,
+                "nivel": "Avanzado"
+            },
+            "50": {
+                "porcentaje": 100.0,
+                "puntos": 8.0,
+                "max_puntos": 8,
+                "nivel": "Experto"
+            },
+            "51": {
+                "porcentaje": 87.5,
+                "puntos": 7.0,
+                "max_puntos": 8,
+                "nivel": "Avanzado"
+            },
+            "52": {
+                "porcentaje": 87.5,
+                "puntos": 7.0,
+                "max_puntos": 8,
+                "nivel": "Avanzado"
+            },
+            "53": {
+                "porcentaje": 100.0,
+                "puntos": 8.0,
+                "max_puntos": 8,
+                "nivel": "Experto"
+            },
+            "54": {
+                "porcentaje": 87.5,
+                "puntos": 7.0,
+                "max_puntos": 8,
+                "nivel": "Avanzado"
+            },
+            "55": {
+                "porcentaje": 62.5,
+                "puntos": 5.0,
+                "max_puntos": 8,
+                "nivel": "Básico"
+            },
+            "56": {
+                "porcentaje": 87.5,
+                "puntos": 7.0,
+                "max_puntos": 8,
+                "nivel": "Avanzado"
+            },
+            "57": {
+                "porcentaje": 75.0,
+                "puntos": 6.0,
+                "max_puntos": 8,
+                "nivel": "Intermedio"
+            },
+            "58": {
+                "porcentaje": 100.0,
+                "puntos": 8.0,
+                "max_puntos": 8,
+                "nivel": "Experto"
+            },
+            "59": {
+                "porcentaje": 75.0,
+                "puntos": 6.0,
+                "max_puntos": 8,
+                "nivel": "Intermedio"
+            },
+            "60": {
+                "porcentaje": 75.0,
+                "puntos": 6.0,
+                "max_puntos": 8,
+                "nivel": "Intermedio"
+            },
+            "61": {
+                "porcentaje": 100.0,
+                "puntos": 8.0,
+                "max_puntos": 8,
+                "nivel": "Experto"
+            },
+            "62": {
+                "porcentaje": 62.5,
+                "puntos": 5.0,
+                "max_puntos": 8,
+                "nivel": "Básico"
+            },
+            "63": {
+                "porcentaje": 87.5,
+                "puntos": 7.0,
+                "max_puntos": 8,
+                "nivel": "Avanzado"
+            },
+            "64": {
+                "porcentaje": 37.5,
+                "puntos": 3.0,
+                "max_puntos": 8,
+                "nivel": "Básico"
+            },
+            "65": {
+                "porcentaje": 100.0,
+                "puntos": 8.0,
+                "max_puntos": 8,
+                "nivel": "Experto"
+            },
+            "66": {
+                "porcentaje": 100.0,
+                "puntos": 8.0,
+                "max_puntos": 8,
+                "nivel": "Experto"
+            },
+            "67": {
+                "porcentaje": 87.5,
+                "puntos": 7.0,
+                "max_puntos": 8,
+                "nivel": "Avanzado"
+            },
+            "68": {
+                "porcentaje": 87.5,
+                "puntos": 7.0,
+                "max_puntos": 8,
+                "nivel": "Avanzado"
+            },
+            "69": {
+                "porcentaje": 87.5,
+                "puntos": 7.0,
+                "max_puntos": 8,
+                "nivel": "Avanzado"
+            },
+            "70": {
+                "porcentaje": 100.0,
+                "puntos": 8.0,
+                "max_puntos": 8,
+                "nivel": "Experto"
+            },
+            "71": {
+                "porcentaje": 87.5,
+                "puntos": 7.0,
+                "max_puntos": 8,
+                "nivel": "Avanzado"
+            },
+            "72": {
+                "porcentaje": 87.5,
+                "puntos": 7.0,
+                "max_puntos": 8,
+                "nivel": "Avanzado"
+            },
+            "73": {
+                "porcentaje": 37.5,
+                "puntos": 3.0,
+                "max_puntos": 8,
+                "nivel": "Básico"
+            },
+            "74": {
+                "porcentaje": 75.0,
+                "puntos": 6.0,
+                "max_puntos": 8,
+                "nivel": "Intermedio"
+            },
+            "75": {
+                "porcentaje": 100.0,
+                "puntos": 8.0,
+                "max_puntos": 8,
+                "nivel": "Experto"
+            },
+            "76": {
+                "porcentaje": 100.0,
+                "puntos": 8.0,
+                "max_puntos": 8,
+                "nivel": "Experto"
+            },
+            "77": {
+                "porcentaje": 87.5,
+                "puntos": 7.0,
+                "max_puntos": 8,
+                "nivel": "Avanzado"
+            }
+        },
+        "estadisticas": {
+            "promedio": 79.87012987012987,
+            "mediana": 87.5,
+            "max": 100.0,
+            "min": 25.0,
+            "desviacion_estandar": 17.46469585426082
+        },
+        "distribucion_niveles": {
+            "Básico": 16,
+            "Intermedio": 20,
+            "Avanzado": 23,
+            "Experto": 18
+        },
+        "preguntas": [
+            "Points - ¿Cuáles son los principales componentes de Power BI? (selecciona todos los que apliquen)",
+            "Points - ¿Qué permite hacer Power Query en Power BI?",
+            "Points - ¿Qué es DAX en Power BI?",
+            "Points - ¿Qué diferencia hay entre una columna calculada y una medida en Power BI?",
+            "Points - ¿Qué tipo de relación se establece por defecto entre tablas en Power BI?",
+            "Points - ¿Qué función DAX utilizarías para cambiar el contexto de filtro?",
+            "Points - ¿Qué es un esquema en estrella en el modelado de datos de Power BI?",
+            "Points - Para analizar datos año tras año (YoY), ¿qué funciones de inteligencia de tiempo son útiles en DAX?"
+        ]
+    }
+}

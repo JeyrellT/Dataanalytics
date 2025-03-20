@@ -1,0 +1,198 @@
+{
+    "Profesional BI": {
+        "descripcion": "Competencias equilibradas en todos los dominios de Power BI",
+        "enfoque_recomendado": "Especialización avanzada en áreas específicas de interés",
+        "participantes": [
+            "1",
+            "3",
+            "5",
+            "6",
+            "9",
+            "11",
+            "13",
+            "14",
+            "15",
+            "16",
+            "17",
+            "18",
+            "19",
+            "21",
+            "24",
+            "26",
+            "29",
+            "30",
+            "34",
+            "35",
+            "38",
+            "39",
+            "42",
+            "43",
+            "45",
+            "46",
+            "48",
+            "50",
+            "51",
+            "53",
+            "54",
+            "56",
+            "57",
+            "58",
+            "59",
+            "61",
+            "63",
+            "66",
+            "67",
+            "68",
+            "69",
+            "70",
+            "71",
+            "72",
+            "74",
+            "75",
+            "76",
+            "77"
+        ],
+        "porcentaje": 62.33766233766234
+    },
+    "Transición de Excel": {
+        "descripcion": "Usuario avanzado de Excel migrando a Power BI",
+        "enfoque_recomendado": "Aprender conceptos de modelado y DAX básico",
+        "participantes": [
+            "2",
+            "4",
+            "64"
+        ],
+        "porcentaje": 3.896103896103896
+    },
+    "Analista Cuantitativo": {
+        "descripcion": "Especialista en análisis numérico y estadístico",
+        "enfoque_recomendado": "Aplicar habilidades analíticas con Power BI",
+        "participantes": [
+            "7"
+        ],
+        "porcentaje": 1.2987012987012987
+    },
+    "Híbrido (Habilidades/Visualización)": {
+        "descripcion": "Combinación de fortalezas en Habilidades en Excel y Tablas y Visualización de Datos",
+        "enfoque_recomendado": "Reforzar áreas de Fundamentos de Datos y Análisis y Conceptos de Bases de Datos",
+        "participantes": [
+            "8",
+            "27"
+        ],
+        "porcentaje": 2.5974025974025974
+    },
+    "Desarrollador Técnico": {
+        "descripcion": "Fuerte en aspectos técnicos y de modelado, menos experiencia en visualización",
+        "enfoque_recomendado": "Mejorar habilidades de visualización y diseño de dashboards efectivos",
+        "participantes": [
+            "10",
+            "12",
+            "22"
+        ],
+        "porcentaje": 3.896103896103896
+    },
+    "Científico de Datos": {
+        "descripcion": "Fuerte en análisis estadístico y fundamentos de datos",
+        "enfoque_recomendado": "Enfocar en la aplicación de Power BI para análisis avanzado y características específicas de BI",
+        "participantes": [
+            "20",
+            "23"
+        ],
+        "porcentaje": 2.5974025974025974
+    },
+    "Híbrido (Habilidades/Conceptos)": {
+        "descripcion": "Combinación de fortalezas en Habilidades en Excel y Tablas y Conceptos de Bases de Datos",
+        "enfoque_recomendado": "Reforzar áreas de Conocimientos de Power BI y Visualización de Datos",
+        "participantes": [
+            "25",
+            "33",
+            "40",
+            "52"
+        ],
+        "porcentaje": 5.194805194805195
+    },
+    "Técnico-Analítico": {
+        "descripcion": "Habilidades técnicas en datos con sólida base analítica",
+        "enfoque_recomendado": "Mejorar diseño visual y comunicación de datos",
+        "participantes": [
+            "28",
+            "73"
+        ],
+        "porcentaje": 2.5974025974025974
+    },
+    "Híbrido (Habilidades/Conocimientos)": {
+        "descripcion": "Combinación de fortalezas en Habilidades en Excel y Tablas y Conocimientos de Power BI",
+        "enfoque_recomendado": "Reforzar áreas de Fundamentos de Datos y Análisis y Visualización de Datos",
+        "participantes": [
+            "31"
+        ],
+        "porcentaje": 1.2987012987012987
+    },
+    "Híbrido (Conceptos/Fundamentos)": {
+        "descripcion": "Combinación de fortalezas en Conceptos de Bases de Datos y Fundamentos de Datos y Análisis",
+        "enfoque_recomendado": "Reforzar áreas de Conocimientos de Power BI y Habilidades en Excel y Tablas",
+        "participantes": [
+            "32"
+        ],
+        "porcentaje": 1.2987012987012987
+    },
+    "Modelador BI": {
+        "descripcion": "Especialista en modelado de datos para BI",
+        "enfoque_recomendado": "Mejorar habilidades de visualización y storytelling",
+        "participantes": [
+            "36"
+        ],
+        "porcentaje": 1.2987012987012987
+    },
+    "Híbrido (Conceptos/Visualización)": {
+        "descripcion": "Combinación de fortalezas en Conceptos de Bases de Datos y Visualización de Datos",
+        "enfoque_recomendado": "Reforzar áreas de Habilidades en Excel y Tablas y Fundamentos de Datos y Análisis",
+        "participantes": [
+            "37",
+            "55",
+            "62"
+        ],
+        "porcentaje": 3.896103896103896
+    },
+    "Híbrido (Conocimientos/Habilidades)": {
+        "descripcion": "Combinación de fortalezas en Conocimientos de Power BI y Habilidades en Excel y Tablas",
+        "enfoque_recomendado": "Reforzar áreas de Conceptos de Bases de Datos y Visualización de Datos",
+        "participantes": [
+            "41",
+            "49"
+        ],
+        "porcentaje": 2.5974025974025974
+    },
+    "Dashboard Developer": {
+        "descripcion": "Desarrollador de dashboards interactivos",
+        "enfoque_recomendado": "Profundizar en modelado avanzado de datos",
+        "participantes": [
+            "44"
+        ],
+        "porcentaje": 1.2987012987012987
+    },
+    "Híbrido (Conceptos/Habilidades)": {
+        "descripcion": "Combinación de fortalezas en Conceptos de Bases de Datos y Habilidades en Excel y Tablas",
+        "enfoque_recomendado": "Reforzar áreas de Conocimientos de Power BI y Visualización de Datos",
+        "participantes": [
+            "47"
+        ],
+        "porcentaje": 1.2987012987012987
+    },
+    "Híbrido (Visualización/Conceptos)": {
+        "descripcion": "Combinación de fortalezas en Visualización de Datos y Conceptos de Bases de Datos",
+        "enfoque_recomendado": "Reforzar áreas de Fundamentos de Datos y Análisis y Habilidades en Excel y Tablas",
+        "participantes": [
+            "60"
+        ],
+        "porcentaje": 1.2987012987012987
+    },
+    "Híbrido (Fundamentos/Conocimientos)": {
+        "descripcion": "Combinación de fortalezas en Fundamentos de Datos y Análisis y Conocimientos de Power BI",
+        "enfoque_recomendado": "Reforzar áreas de Conceptos de Bases de Datos y Visualización de Datos",
+        "participantes": [
+            "65"
+        ],
+        "porcentaje": 1.2987012987012987
+    }
+}
